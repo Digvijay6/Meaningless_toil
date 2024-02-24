@@ -29,7 +29,7 @@ Welcome to **Meaningless Toil**, a small and exciting Scratch game where you tak
 
 2. **Clone the Repository**:
 
-   git clone https://github.com/your-username/meaningless-toil.git
+   git clone https://github.com/Digvijay6/meaningless-toil.git
 
 
 3. **Open in Scratch**:
